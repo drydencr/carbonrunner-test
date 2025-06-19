@@ -13,3 +13,5 @@ jobs:
         run: echo "hello"
       - name: Sleep time
         run: sleep 30
+      - name: Say hello
+        run: echo "hello"
